@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1047601000594",
+    "project_id": "movielib-e1e8a",
+    "storage_bucket": "movielib-e1e8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047601000594:android:dc2d395baff4f79db3364b",
+        "android_client_info": {
+          "package_name": "com.example.movielib_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047601000594-vvls8av7m91hb5d7e1kro06on7re66r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movielib_final",
+            "certificate_hash": "6e8fab1b3c7ca45d2c280f9afa737e5780ed2da8"
+          }
+        },
+        {
+          "client_id": "1047601000594-lge73ohq0io5ovegqcijrp2c6kac8ott.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwCyNLeZaSFcugmTqIbZwMpMHO_SKxG3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047601000594-lge73ohq0io5ovegqcijrp2c6kac8ott.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
